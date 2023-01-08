@@ -14,3 +14,8 @@ design-to-code alignment)
 - Designers get easier handoff to developers
 - Developers get can get started with code that uses UI components from a component library
 - Depending how mock-ups are designed, you could generate whole layouts of code
+
+# Acknowledgements
+
+- Code template initially comes from [nirsky/figma-plugin-react-template](https://github.com/nirsky/figma-plugin-react-template)
+- Inspired by cool Figma Plugin wizardry done by Design System teams across many organizations.
